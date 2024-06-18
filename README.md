@@ -1,5 +1,6 @@
-## <h1> 환영합니다..SmartIT Linux 실습과정입니다.. </h1>
+## <h1> 리눅스 과정을 공부하는 김준영입니다.. </h1>
 <p>
 </p>
-<h2>여기는 Linux Practice Lab입니다..<h2>
-<h2>나의 Tech. Stacks </h2>
+<h2> 리눅스 기말고사 과제입니다..<h2>
+<h2>내가 필요한 Tech. Stacks </h2>
+
